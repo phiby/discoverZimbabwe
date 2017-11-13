@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Discover Zimbabwe</string>
+    <string name="app_second">About Me</string>
+
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+
+    <string name="action_settings">Settings</string>
+
+    <string name="action_add_favourite">Add to Favourites</string>
+    <string name="action_play_next">Play Next</string>
+    <string name="title_activity_second">second</string>
+    <string name="title_activity_splash">SplashActivity</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="zimbabwe">Zimbabwe is a landlocked country in southern Africa known for its dramatic landscape and diverse wildlife, much of it within parks, reserves and safari areas. On the Zambezi River, Victoria Falls make a thundering 108m drop into narrow Batoka Gorge, where there’s white-water rafting and bungee-jumping. Downstream are Matusadona and Mana Pools national parks, home to hippos, rhinos and birdlife.</string>
+    <string name="welcome_to_zimbabwe">WELCOME TO ZIMBABWE</string>
+    <string name="welcome_to_zimbabwe2">Welcome To Zimbabwe</string>
+    <string name="zimbabwe_is_a_landlocked_country_in_southern_africa_known_for_its_dramatic_landscape_and_diverse_wildlife_much_of_it_within_parks_reserves_and_safari_areas_on_the_zambezi_river_victoria_falls_make_a_thundering_108m_drop_into_narrow_batoka_gorge_where_there_s_white_water_rafting_and_bungee_jumping_downstream_are_matusadona_and_mana_pools_national_parks_home_to_hippos_rhinos_and_birdlife">Zimbabwe is a landlocked country in southern Africa known for its dramatic landscape and diverse wildlife, much of it within parks, reserves and safari areas. On the Zambezi River, Victoria Falls make a thundering 108m drop into narrow Batoka Gorge, where there’s white-water rafting and bungee-jumping. Downstream are Matusadona and Mana Pools national parks, home to hippos, rhinos and birdlife.</string>
+
+
+</resources>
